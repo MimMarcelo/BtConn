@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BtConnTest</string>
+    <string name="turn_on">TURN ON</string>
+    <string name="turn_off">TURN OFF</string>
+</resources>

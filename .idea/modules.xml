@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file:///mnt/Data/Projects/AndroidStudioProjects/BtConnTest/BtConnTest.iml" filepath="/mnt/Data/Projects/AndroidStudioProjects/BtConnTest/BtConnTest.iml" />
+      <module fileurl="file:///mnt/Data/Projects/AndroidStudioProjects/BtConnTest/app/app.iml" filepath="/mnt/Data/Projects/AndroidStudioProjects/BtConnTest/app/app.iml" />
+      <module fileurl="file:///mnt/Data/Projects/AndroidStudioProjects/BtConnTest/btconn/btconn.iml" filepath="/mnt/Data/Projects/AndroidStudioProjects/BtConnTest/btconn/btconn.iml" />
+    </modules>
+  </component>
+</project>
