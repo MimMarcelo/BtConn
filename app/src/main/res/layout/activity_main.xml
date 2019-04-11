@@ -23,4 +23,15 @@
         android:layout_height="wrap_content"
         android:text="@string/turn_off"/>
 
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/btnShowMac"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/show_mac"/>
+
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/btnShowDeviceName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/show_device_name"/>
 </LinearLayout>

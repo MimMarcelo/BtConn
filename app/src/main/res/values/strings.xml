@@ -1,5 +1,7 @@
 <resources>
-    <string name="app_name">BtConnTest</string>
+    <string name="app_name">MIM: BtConn</string>
     <string name="turn_on">TURN ON</string>
     <string name="turn_off">TURN OFF</string>
+    <string name="show_mac">SHOW MAC</string>
+    <string name="show_device_name">SHOW DEVICE NAME</string>
 </resources>
